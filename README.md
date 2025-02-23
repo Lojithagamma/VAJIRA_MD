@@ -1,5 +1,7 @@
-l
+
 <h1 align="center">VAJIRA-MD 9.O</h1>
+
+## after deploy change your mode  👉 .mode button or .mode nonbutton
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 
