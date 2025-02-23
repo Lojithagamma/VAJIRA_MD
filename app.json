@@ -9,7 +9,7 @@
     "SESSION_ID": {
             "description": "Type the Session-ID you got from scaning QR",
             "required": true,
-            "value": "put session id here"
+            "value": "VAJIRA-MD=8W9SmDTJ#ftjJRu0xndrSupqWmF6OsbOtY8w3vMVplWGIfioW_aE"
         },
     "MODE": {
             "description": "Put button or nonbutton to change the mode",
